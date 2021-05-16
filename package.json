@@ -9,7 +9,7 @@
   "author": "Pratik Sawant",
   "license": "ISC",
   "engines":{
-    "node":"12.20.0"
+    "node": "12.20.0"
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
